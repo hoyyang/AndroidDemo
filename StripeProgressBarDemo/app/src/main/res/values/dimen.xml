@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progress_bar_width">299.64dp</dimen>
+    <dimen name="progress_bar_height">21.82dp</dimen>
+    <dimen name="progress_bar_margin_top">32.73dp</dimen>
+    <dimen name="progress_bar_margin_horizontal">50.91dp</dimen>
+    
+    <dimen name="progress_bar_rect_radius">36.36dp</dimen>
+    <dimen name="progress_bar_padding">1.82dp</dimen>
+    <dimen name="progress_bar_stripe_width">6.55dp</dimen>
+    <dimen name="progress_bar_stripe_interval_width">6.55dp</dimen>
+    <dimen name="progress_bar_stripe_rotate_degree">-3.3dp</dimen>
+    <dimen name="progress_bar_stripe_translation_offset">6.55dp</dimen>
+</resources>

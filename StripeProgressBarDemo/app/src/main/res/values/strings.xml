@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StripeProgressBarDemo</string>
+
+    <string name="et_hint_manual">Please input 0 – 100 integer</string>
+
+    <string name="button_auto_start">start</string>
+    <string name="button_auto_pause">pause</string>
+
+</resources>
